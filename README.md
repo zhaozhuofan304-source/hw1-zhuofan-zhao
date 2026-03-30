@@ -8,3 +8,6 @@ This repository contains my Homework 1 assignment for coding assistant onboardin
 - Added files
 - Made multiple commits
 - Pushed to GitHub
+
+## video demo
+## https://youtu.be/On-zJUdZ7pk
